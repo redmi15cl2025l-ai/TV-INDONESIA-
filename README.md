@@ -85,10 +85,10 @@ https://ayo.maling.pl/Vision/index.mpd?id=23
 #KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://cdn.aceimg.com/f315f74ca.jpg" group-title="Indonesia",METRO TV V+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://cdn.aceimg.com/f315f74ca.jpg" group-title="INDONESIA",METRO TV V+
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn.aceimg.com/0d3fa609b.jpg" group-title="INDONESIA", MNC TV V+
+#EXTINF:-1 tvg-logo="https://cdn.aceimg.com/0d3fa609b.jpg" group-title="INDONESIA",MNC TV V+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
